@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9bDsKBqvvsjbBODLN6H9sLT3wOtOQ+BeofbOIEa98oMs/NDKb04uGltdydLbkvBK3Re8M4VAwjNtRVuyANIbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Byond\\source\\repos\\MyBO3injector\\MyBO3injector\\MyBO3injector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Byond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Byond\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Byond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Byond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

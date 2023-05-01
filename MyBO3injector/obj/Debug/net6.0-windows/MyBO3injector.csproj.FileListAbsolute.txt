@@ -1,0 +1,29 @@
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\MyBO3injector.exe
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\MyBO3injector.deps.json
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\MyBO3injector.runtimeconfig.json
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\MyBO3injector.dll
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\MyBO3injector.pdb
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.csproj.AssemblyReference.cache
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.Form1.resources
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.csproj.GenerateResource.cache
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.AssemblyInfoInputs.cache
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.AssemblyInfo.cs
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.csproj.CoreCompileInputs.cache
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.dll
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\refint\MyBO3injector.dll
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.pdb
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\MyBO3injector.genruntimeconfig.cache
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\obj\Debug\net6.0-windows\ref\MyBO3injector.dll
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\DLL_UNLOAD.exe
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\Dx11 ImGui - Black Ops lll.dll
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\MXT Backgrounds\mxt_bg_image_0.png
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\MXT Backgrounds\mxt_bg_image_1.png
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\MXT Backgrounds\mxt_bg_image_2.png
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\MXT Backgrounds\mxt_bg_image_3.png
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\MXT Backgrounds\mxt_bg_image_4.png
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\mxt_data_table.txt
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\mxt_load_styles.txt
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\mxt_lua_editor.lua
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\mxt_stat_editor.txt
+C:\Users\Byond\source\repos\MyBO3injector\MyBO3injector\bin\Debug\net6.0-windows\mod\mxt_visual_presets.txt
