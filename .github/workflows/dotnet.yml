@@ -28,6 +28,6 @@ jobs:
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: my-app
+        name: MyBO3injector
         path: |
-          **/bin/Release/net8.0/*.exe
+          MyBO3injector/bin/Release/net8.0/*.exe
