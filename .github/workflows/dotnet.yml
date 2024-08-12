@@ -30,4 +30,5 @@ jobs:
       with:
         name: MyBO3injector
         path: |
-          MyBO3injector/bin/Release/net8.0/*.exe
+          MyBO3injector/bin/Release/net6.0-windows/*.exe
+          
