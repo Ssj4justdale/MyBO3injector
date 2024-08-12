@@ -1,4 +1,4 @@
-# This workflow will build a .NET project and upload the .exe file as an artifact
+# This workflow will build a .NET project, gather dependencies, and zip them for download
 
 name: .NET
 
@@ -25,10 +25,13 @@ jobs:
       run: dotnet build --no-restore --configuration Release
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - name: Create Zip Package
+      run: |
+        mkdir -p build_output
+        cp -r MyBO3injector/bin/Release/net6.0-windows/* build_output/
+        powershell Compress-Archive -Path build_output/* -DestinationPath MyBO3injector.zip
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       with:
         name: MyBO3injector
-        path: |
-          MyBO3injector/bin/Release/net6.0-windows/*.exe
-          
+        path: MyBO3injector.zip
